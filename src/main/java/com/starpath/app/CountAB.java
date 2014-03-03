@@ -24,6 +24,6 @@ public class CountAB {
             }
         }).count();
 
-        System.out.println("Lines with a : " + numAs + ", lines with b : " + numBs);
+        System.out.println("Lines with a: " + numAs + ", lines with b: " + numBs);
     }
 }
