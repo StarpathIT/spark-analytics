@@ -1,8 +1,9 @@
-package com.starpath.app;
+package com.starpath.spark;
 
 /*** SimpleApp.java ***/
 
-import org.apache.spark.api.java.*;
+import org.apache.spark.api.java.JavaRDD;
+import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.Function;
 
 public class CountAB {

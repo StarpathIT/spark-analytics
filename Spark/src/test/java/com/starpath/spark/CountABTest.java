@@ -1,4 +1,4 @@
-package com.starpath.app;
+package com.starpath.spark;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
